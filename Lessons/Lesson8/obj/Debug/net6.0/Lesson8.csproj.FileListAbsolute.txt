@@ -1,0 +1,15 @@
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\obj\Debug\net6.0\Lesson8.csproj.AssemblyReference.cache
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\obj\Debug\net6.0\Lesson8.GeneratedMSBuildEditorConfig.editorconfig
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\obj\Debug\net6.0\Lesson8.AssemblyInfoInputs.cache
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\obj\Debug\net6.0\Lesson8.AssemblyInfo.cs
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\obj\Debug\net6.0\Lesson8.csproj.CoreCompileInputs.cache
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\bin\Debug\net6.0\Lesson8.exe
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\bin\Debug\net6.0\Lesson8.deps.json
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\bin\Debug\net6.0\Lesson8.runtimeconfig.json
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\bin\Debug\net6.0\Lesson8.dll
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\bin\Debug\net6.0\Lesson8.pdb
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\obj\Debug\net6.0\Lesson8.dll
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\obj\Debug\net6.0\refint\Lesson8.dll
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\obj\Debug\net6.0\Lesson8.pdb
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\obj\Debug\net6.0\Lesson8.genruntimeconfig.cache
+C:\MarkDowN-Git\Homework\Lessons\Lesson8\obj\Debug\net6.0\ref\Lesson8.dll
